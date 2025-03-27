@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey, I'm Joshua Adams 👋
 
 <!--
-**JoshBlack25/JoshBlack25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate student currently pursuing a Diploma in Application Development at CPUT. My journey into the world of IT started the moment I powered up my first desktop PC, and it's been nothing but curiosity and discovery since then. From tinkering with hardware to diving deep into code, I’ve never looked back.
 
-Here are some ideas to get you started:
+🔐 What I'm Into Right Now
+These days, I’m all about Cybersecurity — learning how to protect systems, find vulnerabilities, and secure the digital world. Alongside that, I’m diving into different languages and frameworks, including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Java 🖥️
+
+HTML & CSS 🌐
+
+Python 🐍
+
+📫 Let’s Connect:
+Email: 2303177693@mycput.ac.za
+
+LinkedIn: Joshua Adams
 -->
