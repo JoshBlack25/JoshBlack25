@@ -20,47 +20,19 @@ Currently my focus is growing my skills in **software engineering and cybersecur
 # 🧠 Technical Skills
 
 ## 🎨 Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
-
----
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 
 ## ⚙️ Backend Development
-
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JDBC](https://img.shields.io/badge/JDBC-grey?style=for-the-badge)
-
----
+<img src="https://skillicons.dev/icons?i=java,nodejs,python" />
 
 ## 🗄 Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-
----
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
 ## 🐧 Operating Systems
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-
----
+<img src="https://skillicons.dev/icons?i=linux" />
 
 # 🛠 Developer Tools
-
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![NPM](https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea)
-
----
+<img src="https://skillicons.dev/icons?i=git,github,npm,vscode,idea" />
 
 # 📊 GitHub Stats
 
